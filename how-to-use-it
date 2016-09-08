@@ -1,0 +1,10 @@
+This filter was manually tested on Python 2.7.1. But it should work on newer versions as well. 
+
+You will need those dependencies installed:
+-NumPy;
+-Pandas;
+-OS;
+
+Create in you python directory a folder \Data, where the filter will search for all the .txt files. 
+
+In case you have any question regarding how this filter works, please, do not hesitate to contact me on vadim.skritkii@yahoo.com. 
